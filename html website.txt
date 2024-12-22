@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+</head>
+     <title>Document</title>
+</head>
+<body>
+
+
+<table border="2" width="100%" heght="700px">
+
+
+</table>
+
+</body>
+</html>
